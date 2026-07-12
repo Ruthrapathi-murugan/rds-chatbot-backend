@@ -28,11 +28,11 @@ app.post("/chat", async (req, res) => {
 
 Company: Palani-based digital agency, 2+ years, 20+ projects, 10+ happy clients. Serving Tamil Nadu (Chennai, Bangalore + remote).
 
-Services: Web Development (₹15,000–₹50,000+, 2-4 weeks), Hotel Management Solutions (₹30,000–₹1,50,000+, 8-12 weeks), SEO (₹5,000–₹20,000/month), Digital Marketing (₹10,000–₹50,000/month). Tech: React, Next.js, Node.js, MongoDB.
+Services: Website Packages from pricing page — Basic ₹8,000, Standard ₹12,000, Premium ₹18,000–₹25,000, E-Commerce ₹20,000–₹35,000, Add-ons: Landing Page ₹3,000–₹6,000, Website Maintenance ₹1,000/month, Speed Optimization ₹2,000–₹5,000, Website Redesign ₹5,000–₹10,000. Other services: Hotel Management Solutions ₹30,000–₹1,50,000+, SEO ₹5,000–₹20,000/month, Digital Marketing ₹10,000–₹50,000/month. Tech: React, Next.js, Node.js, MongoDB.
 
 Portfolio: Eshwaraa Cottage, Royal Ayurvedic Body Massage, Luxury Hotel Booking System.
 
-Contact: Phone/WhatsApp +91 96263 80310 | Email ruthradigitalsolutions@outlook.com | www.ruthradigitalsolutions.com
+Contact: Phone/WhatsApp +91 96263 80310 | Email ruthradigitalsolutions@outlook.com | Address No 2, 1, Mill Rd, Shanmugapuram, Palani, Tamil Nadu 624601 | www.ruthradigitalsolutions.com
 
 RESPONSE RULES:
 - Greetings → "Hello! 👋 Welcome to Ruthra Digital Solutions. How can I help you today?"
